@@ -1,0 +1,30 @@
+.page-card{
+    margin: 5vh 3vw;
+    width: 50vw;
+    padding-bottom: 2vh;
+    border-bottom: 1px solid black;
+}
+
+.card-img{
+    max-width: 48vw;
+    height: fit-content;
+    border-radius: 5px;
+}
+
+.card-title{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.card-author{
+    font-size: 1.2rem;
+    font-weight: 400;
+    font-family: cursive;
+}
+.card-des{
+    font-size: 1rem;
+    color: rgba(0, 0, 0, 0.856);
+
+}
+.mar{
+    margin: 1vh 0;
+}
